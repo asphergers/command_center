@@ -1,0 +1,16 @@
+{
+    "binds" : [
+        {
+            "id": 2,
+            "script_location": "/home/deand/scripts/command_center/screenshot"
+        },
+        {
+            "id": 3,
+            "script_location": "/home/deand/scripts/command_center/open_firefox"
+        },
+        {
+            "id": 4,
+            "script_location": "/home/deand/scripts/command_center/d"
+        }
+    ] 
+}
